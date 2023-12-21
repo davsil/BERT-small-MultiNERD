@@ -2,6 +2,7 @@ torch
 transformers
 accelerate
 matplotlib
+seaborn
 evaluate
 seqeval
 wandb
